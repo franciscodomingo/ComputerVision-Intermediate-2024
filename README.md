@@ -1,17 +1,18 @@
-# PDI_TP3_DomingoValeri
+# Computer Vision #
 
-El trabajo consta de 4 archivos con extensión .py:
-* **frame_ruta_1.py**: procesamiento de un frame del video ruta_1.mp4
-* **ruta_1.py**: extensión del codigo de frame_ruta_1.py a todo el video 
-* **frame_ruta_2.py**: procesamiento de un frame del video ruta_2.mp4
-* **ruta_2.py**: extensión del codigo de frame_ruta_2.py a todo el video
+The work consists of 4 files with the .py extension:
+* **frame_ruta_1.py**: processing of a frame from the video `ruta_1.mp4`
+* **ruta_1.py**: extension of the code in `frame_ruta_1.py` to the entire video
+* **frame_ruta_2.py**: processing of a frame from the video `ruta_2.mp4`
+* **ruta_2.py**: extension of the code in `frame_ruta_2.py` to the entire video
 
-Además se encuentran los videos originales y los videos obtenidos al correr el trabajo por última vez
-* ruta_1.mp4 y ruta_2.mp4 son los videos originales
-* ruta_1_lineas.mp4 y ruta_2_lineas.mp4 son los videos obtenidos en la ultima ejecución
+Additionally, the original videos and the videos obtained after running the work for the last time are included:
+* `ruta_1.mp4` and `ruta_2.mp4` are the original videos
+* `ruta_1_lineas.mp4` and `ruta_2_lineas.mp4` are the videos obtained from the last execution
 
-En este repositorio también se encuentran dos archivos dados por la catedra con un ejemplo de código para grabar y leer video.
+This repository also contains two files provided by the course with an example code for recording and reading videos.
 
-**Para correr el trabajo ejecutar el código en los archivos ruta_1.py y ruta_2.py**
+**To run the work, execute the code in the files `ruta_1.py` and `ruta_2.py`.**
 
-Por último, en el presente repositorio también se encuentra el informa del trabajo.
+
+This repository contains two Python scripts designed to process and analyze PNG images for different purposes.
